@@ -9,7 +9,7 @@
 ###### * Main section with a promotional image and text.
 ###### * Social media icons and a "Shop Now" button.
 
-### 2.Products
+#### 2.Products
 
 ###### * Displays multiple product cards with images, descriptions, prices, and ratings.
 
