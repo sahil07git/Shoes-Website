@@ -2,13 +2,13 @@
 
 ###### This project is a static website showcasing Nike shoes and related services. It includes several sections such as Home, Products, About, Reviews, Services, Login Form, and a Footer.
 
-Sections
-Home
+## Sections
+### 1. Home
 
-Header with navigation links.
-Main section with a promotional image and text.
-Social media icons and a "Shop Now" button.
-Products
+###### * Header with navigation links.
+###### * Main section with a promotional image and text.
+###### * Social media icons and a "Shop Now" button.
+###### * Products
 
 Displays multiple product cards with images, descriptions, prices, and ratings.
 About
